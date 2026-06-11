@@ -79,6 +79,13 @@ Plugin development documentation is available in both Russian and English, inclu
    - **Local mode** — skip the server entirely and import your own tracks directly into the app.
 3. **Import your library** — Izum Music reads metadata automatically and builds out artists and albums for you.
 
+## Server Deployment
+
+Detailed step-by-step instructions for deploying Izum Music on a server with Docker are kept in dedicated guides:
+
+- 🇬🇧 [English guide](docker/en/README.md) — `docker/en`
+- 🇷🇺 [Русская инструкция](docker/ru/README.md) — `docker/ru`
+
 ## Pro tip · Easter egg
 
 > Hold the **play/pause** button while the player is open. 😉
