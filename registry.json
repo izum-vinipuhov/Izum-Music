@@ -1,0 +1,27 @@
+{
+  "version": "1",
+  "updatedAt": "2026-07-30T00:00:00Z",
+  "plugins": [
+    {
+      "id": "com.izum.vinipuhov.music.example.spotiflac",
+      "name": "SpotiFLAC Example",
+      "author": "SpotiFLAC",
+      "description": "Search and download lossless (FLAC) tracks and albums, tag them, and import into your library.",
+      "repo": "izum-vinipuhov/SpotiFLAC-Example"
+    },
+    {
+      "id": "com.izum.vinipuhov.music.example.ya.api",
+      "name": "Yandex Music Provider",
+      "author": "Izum Music Plugins",
+      "description": "Content provider for Yandex Music: home feed, search, albums, artists, playlists, history and streaming. Requires an active subscription and an OAuth token.",
+      "repo": "izum-vinipuhov/yandex-music-plugin"
+    },
+    {
+      "id": "com.izum.vinipuhov.music.example.youtube.api",
+      "name": "YouTube Music Provider Demo",
+      "author": "Izum Music Plugins",
+      "description": "Content provider for YouTube Music: home feed, search, albums, artists, playlists, history and streaming. Requires a Google account signed in to music.youtube.com (cookies must be provided manually).",
+      "repo": "izum-vinipuhov/youtube-music-plugin"
+    }
+  ]
+}
